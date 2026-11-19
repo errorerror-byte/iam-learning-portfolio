@@ -1,0 +1,10 @@
+# Never publish these
+_screenshots-RAW-do-not-publish/
+*.pfx
+*.pem
+*.key
+*.etl
+*.pcap
+*.pcapng
+secrets*.txt
+.env
