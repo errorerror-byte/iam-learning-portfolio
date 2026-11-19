@@ -1,5 +1,5 @@
 # IAM Learning Portfolio — Koz
-First-year Cybersecurity student at SAIT (Calgary) focusing on
+First-year Cybersecurity student focusing on
 Identity and Access Management (IAM).
 
 ## Projects
